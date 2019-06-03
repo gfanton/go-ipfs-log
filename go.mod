@@ -17,7 +17,7 @@ require (
 	github.com/ipfs/go-ipld-format v0.0.1
 	github.com/ipfs/go-merkledag v0.0.3
 	github.com/libp2p/go-libp2p-crypto v0.0.2
-	github.com/multiformats/go-multihash v0.0.5
+	github.com/multiformats/go-multihash v0.0.5 // indirect
 	github.com/pkg/errors v0.8.1
 	github.com/polydawn/refmt v0.0.0-20190221155625-df39d6c2d992
 	github.com/smartystreets/assertions v0.0.0-20190401211740-f487f9de1cd3 // indirect
